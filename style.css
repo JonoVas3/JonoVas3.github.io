@@ -1278,6 +1278,10 @@ header {
       font-size: 1rem;
       text-align: center;
     }
+    .copyright a {
+      color: var(--clr-primary);
+      text-decoration: none;
+    }
 
   }
   
