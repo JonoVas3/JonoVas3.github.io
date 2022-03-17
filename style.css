@@ -1257,11 +1257,27 @@ header {
     .footer-nav .nav-item .nav-link {
       font-size: 1.6rem;
     }
+    .footer-logo-container ul li {
+      font-weight: normal;
+      font-size: 1.5rem;
+      text-align: center;
+      width: 100%;
+      padding: 0;
+      margin: 0;
+    }
+
 
     .footer-logo-container ul li img {
-      margin-top: 2rem;
-      }
+      margin: 0 auto;
+      width: 50%;
+      max-width: 200px;
+    }
   
+    .copyright {
+      padding-top: 6rem;
+      font-size: 1rem;
+      text-align: center;
+    }
 
   }
   
@@ -1325,7 +1341,6 @@ header {
       padding: 0;
       margin: 0;
     }
-    
 
 
     .footer-logo-container ul li img {
