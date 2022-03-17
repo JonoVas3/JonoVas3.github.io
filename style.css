@@ -675,6 +675,11 @@ header {
     font-weight: normal;
 }
 
+.copyright a {
+  color: var(--clr-primary);
+  text-decoration: none;
+}
+
 
   @media only screen and (max-width: 72em) {
   
