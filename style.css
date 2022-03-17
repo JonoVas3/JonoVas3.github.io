@@ -839,7 +839,12 @@ header {
       z-index: 300;
       position: relative;
     }
-  
+
+    .navbar.active{
+      position: fixed;
+      width: 95%;
+    }
+    
     .navbar .nav-list {
       position: fixed;
       top: 0;
@@ -921,7 +926,6 @@ header {
   
     .logo-container {
       z-index: 999999;
-      position: fixed;
     }
   
     .logo-container svg circle,
