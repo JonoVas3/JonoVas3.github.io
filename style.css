@@ -1230,7 +1230,7 @@ header {
     }
   
     .intro-col-left {
-      margin-top: 8rem;
+      margin: 0 0 5rem 0;
     }
   
     .feature .bg-pattern {
